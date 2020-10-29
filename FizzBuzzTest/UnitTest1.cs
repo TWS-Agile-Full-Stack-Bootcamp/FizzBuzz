@@ -1,6 +1,6 @@
-namespace Dotnet_project_template_test
+namespace FizzBuzzTest
 {
-    using Dotnet_project_template;
+    using FizzBuzz;
     using Xunit;
 
     public class UnitTest1
