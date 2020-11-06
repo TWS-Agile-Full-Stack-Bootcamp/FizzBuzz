@@ -7,3 +7,5 @@
 /FizzBuzz/obj
 /FizzBuzzTest/bin
 /FizzBuzzTest/obj
+.vscode/
+.idea
